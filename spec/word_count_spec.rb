@@ -8,6 +8,6 @@ describe('String#word_count') do
     end
 
     it("identifies a word in a string with multiple words") do
-     expect(('word is word').word_count()).to(eq(2))
+     expect(('i am am am').word_count()).to(eq(3))
    end
 end
