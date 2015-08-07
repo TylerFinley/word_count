@@ -3,7 +3,7 @@ word_count
 
 #### By Tyler Finley
 
-Setup: To run this application you must download or copy word_count files to your computer and run the app.rb file while making sure you have sinatra downloaded
+Setup: To run this application you must download or copy word_count files to your computer and run the app.rb file while making sure you have sinatra downloaded. You may also find my app on heroku: https://git.heroku.com/agile-chamber-1559.git
 
 Technologies Used:
 Ruby, Sinatra
