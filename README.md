@@ -9,7 +9,7 @@ Technologies Used:
 Ruby, Sinatra
 
 Legal
-Copyright (c) 2015 **_{List of contribtors}_**
+Copyright (c) 2015 Tyler Finley
 
 This software is licensed under the MIT license.
 
